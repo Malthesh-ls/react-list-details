@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TableHead Tests should match snapshot 1`] = `
+<thead>
+  <tr>
+    <th
+      className="default"
+      onClick={[Function]}
+    >
+      Name
+    </th>
+    <th
+      className="default"
+      onClick={[Function]}
+    >
+      Alpha Code
+    </th>
+    <th
+      className="default"
+      onClick={[Function]}
+    >
+      State Province
+    </th>
+    <th
+      className="default"
+      onClick={[Function]}
+    >
+      Country
+    </th>
+    <th
+      className=""
+      onClick={null}
+    >
+      Action
+    </th>
+  </tr>
+</thead>
+`;
